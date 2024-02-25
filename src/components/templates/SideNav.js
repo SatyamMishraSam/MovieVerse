@@ -48,7 +48,7 @@ const SideNav = () => {
         </Link>
         <Link
           to={"/gpt"}
-          className="hover:bg-[#A45AD3] hover:text-white duration-300 p-5 rounded-lg text-xl text-red-700 "
+          className="hover:bg-[red] hover:text-white duration-300 p-5 rounded-lg text-xl text-red-700 "
         >
           <i className="ri-reactjs-line mr-2"></i>GPT Search
         </Link>
